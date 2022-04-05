@@ -10,3 +10,5 @@
 - 文章链接：
 
 [多目标综述阅读Wiki](https://github.com/CI-CCNU/Multi-objective_wiki/blob/master/4.1-share/A%20Survey%20on%20Evolutionary%20Constrained-read.md)
+
+[MOEA/D原文阅读](https://github.com/CI-CCNU/Multi-objective_wiki/blob/master/MOEA_D-share/MOEA:D.md)
